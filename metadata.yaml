@@ -1,0 +1,35 @@
+_repo: Claudian-volume-2-of-2-With-an-English-translation-by-Maurice-Platnauer_51444
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Platnauer, Maurice
+    gutenberg_agent_id: '46420'
+    url: http://www.gutenberg.org/2009/agents/46420
+creator:
+  author:
+    agent_name: Claudianus, Claudius
+    aliases:
+    - Claudian
+    - Claudiano, Claudio
+    - Claudien
+    gutenberg_agent_id: '46419'
+    url: http://www.gutenberg.org/2009/agents/46419
+description: ''
+gutenberg_issued: '2016-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51444'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Claudianus, Claudius -- Translations into English'
+- !lcc 'PA'
+- GITenberg
+title: 'Claudian, volume 2 (of 2)
+
+  With an English translation by Maurice Platnauer'
+url: http://www.gutenberg.org/ebooks/51444
